@@ -1,0 +1,19 @@
+html, body {
+  color: #fff;
+  font-family: ;
+  background-image: url("../images/pokemonbackground.png");
+}
+@font-face {
+    font-family: "pokemonGameFont";
+    src: url("pokemonfont.ttf");
+}
+
+div {
+    font-family: "pokemonGameFont";
+    color: #000;
+}
+
+label {
+  font-family: "pokemonGameFont";
+  color: #000;
+}
